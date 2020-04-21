@@ -1,0 +1,6 @@
+Quiz wykonany w oparciu o podlinkowany kurs.
+Jest pewien problem z dekodowaniem encji, nie udało mi się go rozwiązać więc zostawiłem w takiej formie.
+index.html to menu quizu. Dostęp do internetu wymagany aby załadować bazę pytań.
+
+Pozdrawiam,
+Teodor Bizoń 2ID
